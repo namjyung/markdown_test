@@ -13,5 +13,4 @@ int main()
     }
     if(cnt==s.length()/2) cout<<1;
     else cout<<0;
-    
 }
